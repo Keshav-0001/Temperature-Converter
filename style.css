@@ -1,0 +1,43 @@
+.container{
+
+margin: 100px;
+background-color: aquamarine;
+text-align: center;
+padding: 80px;
+}
+
+.top-head{
+
+margin-bottom: 50px;
+
+}
+
+.input1{
+    display: inline-block;
+    
+}
+
+
+body{
+
+margin: 0;
+padding: 0;
+}
+
+.text1{
+    
+    font-size: 18px;
+    text-align: center;
+}
+
+.text2{
+font-size: 18px;
+    text-align: center;
+    
+}
+
+.labe-class{
+
+    font-size: 20px;
+    margin-left: 16px;
+}
